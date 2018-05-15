@@ -16,4 +16,5 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 Project Description
+
 In this project, we were interested in examining how education levels and crime rates have evolved over time at a narrow geographic level (a commute zone) within the United States – more specifically across New York City boroughs. Essentially, the project aims to investigate the main question: What is the relationship between education levels and crime rates across NYC boroughs, and across time? Using Python and its extensive libraries, we processed and visualized the data to highlight insightgul trends about how education and crime are more closely linked. 
